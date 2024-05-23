@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.klapertart</groupId>
 	<artifactId>sample-app-gitbranching</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>sample-app-gitbranching</name>
 	<description>Demo project for Sample Git Branching Strategy</description>
 
@@ -165,7 +165,7 @@
 		<url>https://github.com/klapertart/sample-app-gitbranching.git</url> <!-- URL HTTP de clone do projeto -->
 		<connection>scm:git:https://github.com/klapertart/sample-app-gitbranching.git</connection> <!-- URL HTTP de clone do projeto -->
 		<developerConnection>scm:git:https://github.com/klapertart/sample-app-gitbranching.git</developerConnection> <!-- URL HTTP de clone do projeto -->
-		<tag>0.0.4</tag>
+		<tag>0.0.3-DEV</tag>
 	</scm>
 
 </project>
