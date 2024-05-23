@@ -9,4 +9,5 @@ public class Constant {
     public static final Integer CONSTANT_2 = 2;
     public static final Integer CONSTANT_3 = 3;
     public static final Integer CONSTANT_4 = 4;
+    public static final Integer CONSTANT_4 = 4;
 }
