@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.0.4-DEV](https://github.com/klapertart/sample-app-gitbranching/releases/tag/0.0.4-DEV) (2024-05-23)
+
+
+
+### Features
+
+-  constant 4 ([fc416cf2f934486](https://github.com/klapertart/sample-app-gitbranching/commit//fc416cf2f934486))
+
+
+### Bug Fixes
+
+-  constant name 4 ([6d23bd47254d5f7](https://github.com/klapertart/sample-app-gitbranching/commit//6d23bd47254d5f7))
+
+### Chores
+
+-  update config git changelog maven plugin ([37564751b6b42f9](https://github.com/klapertart/sample-app-gitbranching/commit//37564751b6b42f9))
+-  bump to 0.0.4-SNAPSHOT ([53cdd1777df6daf](https://github.com/klapertart/sample-app-gitbranching/commit//53cdd1777df6daf))
+
+### Docs
+
+-  update changelog ([b4a3b6980062f4c](https://github.com/klapertart/sample-app-gitbranching/commit//b4a3b6980062f4c))
+
+
 ## [0.0.3-DEV](https://github.com/klapertart/sample-app-gitbranching/releases/tag/0.0.3-DEV) (2024-05-23)
 
 
