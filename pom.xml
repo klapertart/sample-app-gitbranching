@@ -77,7 +77,7 @@
 							<goal>git-changelog</goal>
 						</goals>
 						<configuration>
-							<ignoreTagsIfNameMatches>-RELEASE</ignoreTagsIfNameMatches>
+							<ignoreTagsIfNameMatches>.*-RELEASE$</ignoreTagsIfNameMatches>
 							<templateContent>
 								<![CDATA[
 # Changelog
