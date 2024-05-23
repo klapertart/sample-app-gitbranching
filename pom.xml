@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.klapertart</groupId>
 	<artifactId>sample-app-gitbranching</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>sample-app-gitbranching</name>
 	<description>Demo project for Sample Git Branching Strategy</description>
 
