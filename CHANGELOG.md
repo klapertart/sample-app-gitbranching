@@ -1,5 +1,34 @@
 # Changelog
 
+## [0.0.2-RELEASE](https://github.com/klapertart/sample-app-gitbranching/releases/tag/0.0.2-RELEASE) (2024-05-23)
+
+
+
+### Features
+
+-  constant 5 ([c30c54c242eae03](https://github.com/klapertart/sample-app-gitbranching/commit//c30c54c242eae03))
+-  constant 4 ([fc416cf2f934486](https://github.com/klapertart/sample-app-gitbranching/commit//fc416cf2f934486))
+
+
+### Bug Fixes
+
+-  constant name 5 ([5545c272c5f6024](https://github.com/klapertart/sample-app-gitbranching/commit//5545c272c5f6024))
+-  constant name 4 ([6d23bd47254d5f7](https://github.com/klapertart/sample-app-gitbranching/commit//6d23bd47254d5f7))
+
+### Chores
+
+-  bump to 0.0.2-SNAPSHOT ([bf0d826eb458061](https://github.com/klapertart/sample-app-gitbranching/commit//bf0d826eb458061))
+-  bump to 0.0.5-SNAPSHOT ([89f266fddc08164](https://github.com/klapertart/sample-app-gitbranching/commit//89f266fddc08164))
+-  update config git changelog maven plugin ([37564751b6b42f9](https://github.com/klapertart/sample-app-gitbranching/commit//37564751b6b42f9))
+-  bump to 0.0.4-SNAPSHOT ([53cdd1777df6daf](https://github.com/klapertart/sample-app-gitbranching/commit//53cdd1777df6daf))
+
+### Docs
+
+-  update changelog ([5bbec5a61a87e1f](https://github.com/klapertart/sample-app-gitbranching/commit//5bbec5a61a87e1f))
+-  update changelog ([f6b4cd86a14edda](https://github.com/klapertart/sample-app-gitbranching/commit//f6b4cd86a14edda))
+-  update changelog ([47cfc589afff48f](https://github.com/klapertart/sample-app-gitbranching/commit//47cfc589afff48f))
+
+
 ## [0.0.1-RELEASE](https://github.com/klapertart/sample-app-gitbranching/releases/tag/0.0.1-RELEASE) (2024-05-23)
 
 
