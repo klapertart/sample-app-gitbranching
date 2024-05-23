@@ -77,7 +77,7 @@
 							<goal>git-changelog</goal>
 						</goals>
 						<configuration>
-							<ignoreTagsIfNameMatches>-DEV</ignoreTagsIfNameMatches>
+							<ignoreTagsIfNameMatches>.*-DEV$</ignoreTagsIfNameMatches>
 							<templateContent>
 								<![CDATA[
 # Changelog
