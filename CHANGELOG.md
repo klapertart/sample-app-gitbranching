@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.0.3-DEV](https://github.com/klapertart/sample-app-gitbranching/releases/tag/0.0.3-DEV) (2024-05-23)
+
+
+
+### Features
+
+-  constant 3 ([10fe00fecaea249](https://github.com/klapertart/sample-app-gitbranching/commit//10fe00fecaea249))
+
+
+### Bug Fixes
+
+-  constant name 3 ([6dea54f7cc12f1b](https://github.com/klapertart/sample-app-gitbranching/commit//6dea54f7cc12f1b))
+
+### Chores
+
+-  bump to 0.0.3-SNAPSHOT ([5070de56499cdb2](https://github.com/klapertart/sample-app-gitbranching/commit//5070de56499cdb2))
+
+### Docs
+
+-  update changelog ([d4d39880f5beebc](https://github.com/klapertart/sample-app-gitbranching/commit//d4d39880f5beebc))
+
+
 ## [0.0.2-DEV](https://github.com/klapertart/sample-app-gitbranching/releases/tag/0.0.2-DEV) (2024-05-23)
 
 
